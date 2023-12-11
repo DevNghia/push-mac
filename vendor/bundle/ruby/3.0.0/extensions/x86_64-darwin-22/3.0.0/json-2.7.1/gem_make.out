@@ -1,0 +1,13 @@
+current directory: /Users/macbook/Documents/demo/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+/Users/macbook/.rbenv/versions/3.0.2/bin/ruby -I /Users/macbook/.rbenv/versions/3.0.2/lib/ruby/3.0.0 -r ./siteconf20231210-40106-s9gplo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/macbook/Documents/demo/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/macbook/Documents/demo/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/macbook/Documents/demo/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= install
